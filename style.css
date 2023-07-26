@@ -1,0 +1,56 @@
+HTML {font-family:<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=DM+Sans:wght@200&display=swap" rel="stylesheet">}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+        
+}
+.Background{
+    position: absolute;
+    width: 100vw;
+    height:100vh;
+    background: linear-gradient(to bottom right, #6600ff 0%, #ff99cc 100%);
+}
+    
+
+
+.card{
+    font-family: DM Sans;
+    font-size:26px;
+    font font-weight: 700;
+    font-style: normal;
+    position: relative;
+    display:flex;
+    padding: auto;
+    height: auto;
+    max-width:1400px;
+    
+    
+}
+.header{
+    background: linear-gradient(to bottom right, #6600ff 0%, #ff99cc 100%);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color:#0c0c0d;
+    text-align: center;
+    
+    .h_title {
+        font-size: 60px;
+        margin-bottom: 30px;
+        font-family: 'DM Sans', sans-serif;
+         }
+
+    .h_slogan {
+        font-size: 30px;
+        margin-bottom: 15px;
+        font-family: 'DM Sans', sans-serif;
+    
+font-family: 'DM Sans', sans-serif;
+
+
+
+
